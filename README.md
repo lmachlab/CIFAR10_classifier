@@ -10,7 +10,7 @@ include: plane, car, bird, cat, deer, dog, frog, horse, ship, and truck
 
 ## References
 
-All code writted is mine. I referenced: 
+All code written is mine. I referenced: 
 - https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 - https://www.youtube.com/watch?v=wnK3uWv_WkU
 - my own work from a previous project
